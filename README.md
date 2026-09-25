@@ -1,7 +1,7 @@
 # Systems_Genomics_2025
 
 ## PROJECT DESCRIPTION 
-Pipeline for analysing RNASeq raw data from (Krausgruber et al. (2020))[#https://www.nature.com/articles/s41586-020-2424-4] [1]
+Pipeline for analysing RNASeq raw data from [Krausgruber et al. (2020)](#https://www.nature.com/articles/s41586-020-2424-4) [1]
 
 Dataset considered was specifically limited to samples in the control and LMCV-infected tissues in the liver and the brain 
 
